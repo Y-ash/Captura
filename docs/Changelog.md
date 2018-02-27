@@ -185,7 +185,7 @@ A new window openable from About tab for additional settings:
 
 ### What's New
 
-- Added [Command-line support](Command-line).
+- Added [Command-line support](CmdLine.md).
 
 ## v3.5.0
 
@@ -194,7 +194,7 @@ A new window openable from About tab for additional settings:
 - **fix:** Crash when Recording stops automatically on reaching Duration.
 - **fix:** Recording cannot start if Delay is set.
 - **fix:** Optional libraries don't load on Chocolatey.
-- Localization using RESX files. [Translations](Translation) are welcome.
+- Localization using RESX files. [Translations](Translation.md) are welcome.
 - Scroll to change values in Number boxes.
 - Removed NAudio support.
 - Items in the Recent list are persisted only if the files exist.
