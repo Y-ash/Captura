@@ -1,3 +1,5 @@
+<img src="http://i.imgur.com/syPGnSd.png" align="right">
+
 # Captura
 
 [![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square)](https://ci.appveyor.com/project/MathewSachin/Captura)
@@ -9,11 +11,7 @@
 
 :link: <https://mathewsachin.github.io/Captura/>
 
-Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes using [Screna](https://github.com/MathewSachin/Screna).
-
-![ScreenShot](http://i.imgur.com/syPGnSd.png)
-
-[See more ScreenShots](docs/ScreenShots.md)
+Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
 ## Features
 
